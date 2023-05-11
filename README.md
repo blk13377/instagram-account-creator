@@ -17,7 +17,10 @@ Unflagged locale / Mouse movements
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" align="left">
-\
+
+        
+        
+        
 ## To do list <a name="todo"></a>
 
         
