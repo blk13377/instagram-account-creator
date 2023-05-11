@@ -1,7 +1,7 @@
 **This project wont be continued, may be patched soon.**
 ___
 
-<p>You can contact me here to get full version email + phone api ( inclusive threaded and full software ): <a href="https://t.me/blk1337">blk1337<a> for full version and updates. <a href="https://discord.gg/gpt4free"><img align="center" alt="gpt4free Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a></p>
+<p>You can contact me here to get full version email + phone api ( inclusive threaded and full software ): <a href="https://t.me/blk1337">blk1337<a><a href="https://discord.gg/gpt4free"><img align="center" alt="gpt4free Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a></p>
 
 
 <img alt="instagram logo" src="https://th.bing.com/th/id/R.1d12ac059f3539d1aa1f1a5d211077df?rik=AfwM%2bURfWkBTlA&pid=ImgRaw&r=0">
