@@ -82,5 +82,5 @@ python3 main.py
 ## Star History <a name="star-history"></a>
 
 <a href="https://github.com/xtekky/gpt4free/stargazers">
-        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=xtekky/gpt4free&type=Date">
+        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=blk13377/instagram-account-creator&type=Date">
       </a> 
